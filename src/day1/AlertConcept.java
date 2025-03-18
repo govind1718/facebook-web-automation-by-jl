@@ -18,6 +18,8 @@ public void openBrowser()
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		driver.get("https://playground.intellectsoftwareacademy.com/alert");
 	}
+
+//hlo govi
 	
 	public void alertOk() throws InterruptedException
 	
