@@ -33,7 +33,6 @@ public void openBrowser()
 		
 	}
        
-	
 	public void alertCancel() throws InterruptedException
       
 	{
